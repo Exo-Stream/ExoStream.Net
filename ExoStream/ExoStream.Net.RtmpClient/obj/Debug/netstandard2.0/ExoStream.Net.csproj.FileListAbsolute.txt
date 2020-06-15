@@ -1,0 +1,9 @@
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.RtmpClient\bin\Debug\netstandard2.0\ExoStream.Net.deps.json
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.RtmpClient\bin\Debug\netstandard2.0\ExoStream.Net.dll
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.RtmpClient\bin\Debug\netstandard2.0\ExoStream.Net.pdb
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.RtmpClient\obj\Debug\netstandard2.0\ExoStream.Net.csprojAssemblyReference.cache
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.RtmpClient\obj\Debug\netstandard2.0\ExoStream.Net.csproj.CoreCompileInputs.cache
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.RtmpClient\obj\Debug\netstandard2.0\ExoStream.Net.AssemblyInfoInputs.cache
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.RtmpClient\obj\Debug\netstandard2.0\ExoStream.Net.AssemblyInfo.cs
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.RtmpClient\obj\Debug\netstandard2.0\ExoStream.Net.dll
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.RtmpClient\obj\Debug\netstandard2.0\ExoStream.Net.pdb

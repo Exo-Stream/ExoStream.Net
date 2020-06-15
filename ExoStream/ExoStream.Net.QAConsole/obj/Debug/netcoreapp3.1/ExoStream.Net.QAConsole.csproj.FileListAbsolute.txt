@@ -1,0 +1,16 @@
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\obj\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.csprojAssemblyReference.cache
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\obj\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.AssemblyInfoInputs.cache
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\obj\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.AssemblyInfo.cs
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\bin\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.exe
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\bin\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.deps.json
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\bin\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.runtimeconfig.json
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\bin\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.runtimeconfig.dev.json
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\bin\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.dll
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\bin\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.pdb
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\obj\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.dll
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\obj\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.pdb
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\obj\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.genruntimeconfig.cache
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\obj\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.csproj.CoreCompileInputs.cache
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\obj\Debug\netcoreapp3.1\ExoStream.Net.QAConsole.csproj.CopyComplete
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\bin\Debug\netcoreapp3.1\ExoStream.Net.dll
+C:\Users\chase\source\Repos (Project)\Personal\ExoStream\ExoStream\ExoStream.Net.QAConsole\bin\Debug\netcoreapp3.1\ExoStream.Net.pdb

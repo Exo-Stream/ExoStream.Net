@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+mrnpp3xlS9qnHXqB3tzHeXpJgyhI7YWUffLgaG+YxLf+QzG0qDBdinL+h/G6F54aSf4VRI1uWMgWdKTI55DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chase\\source\\repos\\ExoStream LLC\\ExoStream\\ExoStream\\ExoStream.Net.RtmpClient\\ExoStream.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
